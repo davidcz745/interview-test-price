@@ -1,6 +1,5 @@
-# Test Application for Qindel Group
-
-Technical test for Qindel Group consisting of generating an application in SpringBoot that offers a REST query endpoint, through which, from the data:
+# Test Application a job interview
+Technical test for a job interview consisting of generating an application in SpringBoot that offers a REST query endpoint, through which, from the data:
 
 - Application date
 - Product identifier (product_id)
